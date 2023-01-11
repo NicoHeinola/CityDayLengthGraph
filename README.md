@@ -1,5 +1,6 @@
 # CityDayLengthGraph
-Laravel / Vue based project that draws a graph which shows daytime lengths of different cities.
+Laravel / Vue based project that draws a graph which shows daytime lengths of different cities.  
+
 ![App](./github_images/website.png)
 ___
 ## How to install
